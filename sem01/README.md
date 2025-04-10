@@ -1,5 +1,7 @@
 # Depth-First Search: связность, циклы, двудольность
 
+## Поиск количества компонент связности
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
