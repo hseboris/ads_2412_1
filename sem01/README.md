@@ -1,6 +1,6 @@
 # Depth-First Search: связность, циклы, двудольность
 
-<pre>
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -45,4 +45,4 @@ int main() {
         cout << '\n';
     }
 }
-</pre>
+```
