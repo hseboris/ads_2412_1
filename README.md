@@ -6,3 +6,5 @@
 
 25-04-05 [Depth-First Search: мосты и точки сочленения, топологическая сортировка
 ](./sem02/README.md)
+
+25-04-10 [Breadth-First Search](./sem03/README.md)
